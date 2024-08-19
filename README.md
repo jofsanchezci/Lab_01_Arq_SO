@@ -59,7 +59,7 @@ The objective of this laboratory is to understand and implement basic digital lo
 ### Task 6: Evaluation of Logic Circuits
 - **Objective**: Evaluate the output of a logic circuit for different input combinations.
 - **Procedure**:
-  1. Construct a more complex logic circuit (e.g., `X = \overline{(A + B)} \cdot C`).
+  1. Construct a more complex logic circuit (e.g., $X=\overline{(A + B)}\cdot C)$.
   2. Create a truth table for the circuit by varying the inputs.
   3. Compare the truth table with the expected output from the Boolean expression.
 - **Expected Outcome**: Students should be able to evaluate the circuit’s output and ensure it matches the predicted behavior from the truth table.
@@ -67,7 +67,7 @@ The objective of this laboratory is to understand and implement basic digital lo
 ### Task 7: Implementation of Circuits from Boolean Expressions
 - **Objective**: Implement a logic circuit based on a given Boolean expression.
 - **Procedure**:
-  1. Given a Boolean expression (e.g., `Y = (A + B) \cdot \overline{C}`), design the circuit on paper.
+  1. Given a Boolean expression (e.g., $Y = (A + B) \cdot \overline{C})$, design the circuit on paper.
   2. Implement the circuit on the breadboard using the appropriate gates.
   3. Test the circuit for all possible input combinations and record the output.
 - **Expected Outcome**: Students should successfully build the circuit corresponding to the Boolean expression and verify its functionality.
@@ -81,10 +81,9 @@ Students will be evaluated on the following criteria:
 - Proper use of laboratory equipment and adherence to safety protocols.
 
 ## Report:
-Each student should submit a report including:
+Each group should submit a report including:
 - Constructed truth tables.
 - Boolean expressions derived from circuit analysis.
 - Observations from each task, including any discrepancies between expected and actual outputs.
 - Answers to any questions provided in the lab manual.
 
-This lab is designed to provide hands-on experience with digital logic circuits, reinforcing theoretical knowledge through practical application.
